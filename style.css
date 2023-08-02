@@ -1,0 +1,145 @@
+/* Import Google Font - Poppins */
+@import url('https://fonts.googleapis.com/css?family=Poppins:400,500,600,700&display=swap');
+* {
+  font-family: 'Poppins', sans-serif;
+}
+
+body {
+  display: flex;
+  background: linear-gradient(45deg, #000000, #2c2044, #212b28);
+  animation-timing-function: calc(0.5s * 0.5);
+  animation: gradient 0.5s infinite alternate;
+  background-size: 800% 800%;
+  animation: gradientAnimation 30s ease infinite;
+}
+
+@keyframes gradientAnimation {
+  0% {
+    background-position: 10% 10%;
+  }
+  50% {
+    background-position: 10% 10%;
+  }
+  100% {
+    background-position: 10% 10%;
+  }
+}
+
+.nav-bar {
+  position: fixed;
+  width: 100%;
+  background-color: transparent;
+  backdrop-filter: blur(2px); /* Adjust the blur intensity as desired */
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  height: 75px;
+  display: flex;
+  justify-content: center; /* center the items horizontally */
+  align-items: center;
+  z-index: 100; /* make sure it stays on top */
+  margin-left: 0px;
+}
+
+.nav-bar .nav-logo .login .getstarted {
+  flex-shrink: 0; /* prevent the items from shrinking */
+  margin: 0 10px;
+}
+
+.nav-logo {
+    width: 127px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    transition: .5s;
+    padding-left: 1px;
+    position: relative;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+}
+
+.nav-logo:hover {
+  cursor: pointer;
+  opacity: 0.9;
+  transition: .5s;
+  /* add onclick to act as home button in html */
+}
+
+.wrapper {
+  width: 250px;
+  height: 200px;
+  background: transparent;
+  border-radius: 20px;
+  padding: 20px 20px 20px;
+  color: rgb(51, 51, 51);
+  position: relative;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, 100%);
+  justify-content: center;
+  align-items: center;
+}
+
+head,
+.content :where(i, p, span) {
+  color: #ffffff;
+}
+
+.wrapper header {
+  font-size: 15px;
+  font-weight: 600;
+  text-align: center;
+}
+
+.wrapper .content {
+  margin: 15px 0;
+}
+
+.content .quote-area {
+  display: flex;
+  justify-content: center;
+  flex-direction: column-reverse;
+  align-items: center;
+  height: 150px;
+}
+
+
+.content .quote-area .quote {
+  font-size: 18px;
+  text-align: center;
+  word-break: break-word;
+  max-width: 100%;
+}
+
+.quote-area i {
+  font-size: 5px;
+}
+
+.quote-area i:first-child {
+  margin: 2px 5px 0 0;
+}
+
+.quote-area i:last-child {
+  display: flex;
+  margin: 0 0 2px 5px;
+  align-items: flex-end;
+}
+
+.content .author {
+  display: flex;
+  font-size: 10px;
+  margin-top: 100px;
+  font-style: italic;
+  justify-content: flex-end;
+  max-width: 100%;
+  max-height: 100%;
+}
+
+.author span:first-child {
+  margin: -7px 5px 0 0;
+  font-family: monospace;
+}
+
+
