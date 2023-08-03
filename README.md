@@ -2,4 +2,5 @@
 
 Just here to learn :P
 
-stoicism.xyz
+(https://stoicism.xyz/)
+
