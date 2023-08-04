@@ -382,11 +382,11 @@ const quotes = [
         "author": "Epictetus"
       },
       {
-        "text": "Remind thyself that he whom thou lovest is mortal  that what thou lovest is not thine own; it is given thee for the present, not irrevocably nor for ever, but even as a fig or a bunch of grapes at the appointed season of the year.",
+        "text": "Remind thyself that he whom thou lovest is mortal, that what thou lovest is not thine own; it is given thee for the present, not irrevocably nor for ever, but even as a fig or a bunch of grapes at the appointed season of the year.",
         "author": "Epictetus"
       },
       {
-        "text": "Why do you want to read anyway – for the sake of amusement or mere erudition? Those are poor, fatuous pretexts.  Reading should serve the goal of attaining peace; if it doesn’t make you peaceful, what good is it?",
+        "text": "Why do you want to read anyway – for the sake of amusement or mere erudition? Those are poor, fatuous pretexts.",
         "author": "Epictetus"
       },
       {
@@ -886,10 +886,6 @@ const quotes = [
         "author": "Epictetus"
       },
       {
-        "text": "You are a little soul carrying a dead body, as Epictetus said.",
-        "author": "Epictetus"
-      },
-      {
         "text": "Happiness and freedom begin with a clear understanding of one principle: Some things are within our control, and some things are not.",
         "author": "Epictetus"
       },
@@ -931,10 +927,6 @@ const quotes = [
       },
       {
         "text": "Remember that the divine order is intelligent and fundamentally good. Life is not a series of random, meaningless episodes, but an ordered, elegant whole that follows ultimately comprehensible laws.",
-        "author": "Epictetus"
-      },
-      {
-        "text": "Never say of anything that I've lost it, only that Ive given it back.",
         "author": "Epictetus"
       },
       {
@@ -4890,10 +4882,6 @@ const quotes = [
         "author": "Marcus Aurelius"
       },
       {
-        "text": "In everything that you do, pause and ask yourself if death is a dreadful thing because it deprives you of this.",
-        "author": "Marcus Aurelius"
-      },
-      {
         "text": "When force of circumstance upsets your equanimity, lose no time in recovering your self-control, and do not remain out of tune longer than you can help. Habitual recurrence to the harmony will increase your mastery of it.",
         "author": "Marcus Aurelius"
       },
@@ -6551,10 +6539,6 @@ const quotes = [
       },
       {
         "text": "Look in, let not either the proper quality, or the true worth of anything pass thee, before thou hast fully it.",
-        "author": "Marcus Aurelius"
-      },
-      {
-        "text": "Because most of what we say and do is not essential. If you can eliminate it, you'll have more time and more tranquillity. Ask yourself at every moment, is this necessary….",
         "author": "Marcus Aurelius"
       },
       {
