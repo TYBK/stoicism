@@ -14,6 +14,10 @@ const quotes = [
         "author": "Epictetus"
       },
       {
+        "text": "I cannot escape death, but at least I can escape the fear of it.",
+        "author": "Epictetus"
+      },
+      {
         "text": "There is only one way to happiness and that is to cease worrying about things which are beyond the power or our will.",
         "author": "Epictetus"
       },
@@ -722,6 +726,10 @@ const quotes = [
         "author": "Epictetus"
       },
       {
+        "text": "Settle on the type of person you want to be and stick to it, whether alone or in company.",
+        "author": "Epictetus"
+      },
+      {
         "text": "He wants what he cannot have, and does not want what he can't refuse — and isn't aware of it. He doesn't know the difference between his own possessions and others'. Because, if he did, he would never be thwarted of disappointed. Or nervous.",
         "author": "Epictetus"
       },
@@ -983,6 +991,10 @@ const quotes = [
       },
       {
         "text": "What upsets people is not things themselves but their judgements about these things.",
+        "author": "Epictetus"
+      },
+      {
+        "text": "Consider at what price you sell your integrity, but please, for God’s sake, don’t sell it cheap.",
         "author": "Epictetus"
       },
       {
@@ -2067,10 +2079,6 @@ const quotes = [
       },
       {
         "text": "Nūllum magnum ingenium sine mixtūrā dēmentiae fuit No great talent without an element of madness.",
-        "author": "Seneca"
-      },
-      {
-        "text": "Set aside a certain number of days, during which you shall be content with the scantiest and cheapest fare, with course and rough dress, saying to yourself the while: 'Is this the condition that I feared?",
         "author": "Seneca"
       },
       {
@@ -4138,10 +4146,6 @@ const quotes = [
         "author": "Seneca"
       },
       {
-        "text": "Most men ebb and flow in wretchedness between the fear of death and the hardships of life; they are unwilling to live, and yet they do not know how to die.",
-        "author": "Seneca"
-      },
-      {
         "text": "Does it serve any useful purpose to know that Pompey was the first to exhibit the slaughter of eighteen elephants in the Circus, pitting criminals against them in a mimic battle?",
         "author": "Seneca"
       },
@@ -4319,6 +4323,22 @@ const quotes = [
       },
       {
         "text": "You have power over your mind - not outside events. Realize this, and you will find strength.",
+        "author": "Marcus Aurelius"
+      },
+      {
+        "text": "Conceal a flaw, and the world will imagine the worst.",
+        "author": "Marcus Aurelius"
+      },
+      {
+        "text": "Each day provides its own gifts.",
+        "author": "Marcus Aurelius"
+      },
+      {
+        "text": "How trivial the things we want so passionately are.",
+        "author": "Marcus Aurelius"
+      },
+      {
+        "text": "You can commit injustice by doing nothing.",
         "author": "Marcus Aurelius"
       },
       {
@@ -5227,6 +5247,18 @@ const quotes = [
       },
       {
         "text": "The present moment is the only thing of which anyone can be deprived, at least if this is the only thing he has and he cannot lose what he has not got.",
+        "author": "Marcus Aurelius"
+      },
+      {
+        "text": "Give yourself the gift of the present moment.",
+        "author": "Marcus Aurelius"
+      },
+      {
+        "text": "Give yourself the gift of the present moment.",
+        "author": "Marcus Aurelius"
+      },
+      {
+        "text": "The only wealth which you will keep forever is the wealth you have given away.",
         "author": "Marcus Aurelius"
       },
       {
@@ -6214,10 +6246,6 @@ const quotes = [
         "author": "Marcus Aurelius"
       },
       {
-        "text": "Set aside a certain number of days, during which you shall be content with the scantiest and cheapest fare, with coarse and rough dress, saying to yourself the while: \"Is this the condition that I feared?\"",
-        "author": "Marcus Aurelius"
-      },
-      {
         "text": "Everywhere, at each moment, you have the option: to accept this event with humility; to treat this person as he should be treated; to approach this thought with care, so that nothing irrational creeps in.",
         "author": "Marcus Aurelius"
       },
@@ -6318,7 +6346,7 @@ const quotes = [
         "author": "Marcus Aurelius"
       },
       {
-        "text": "Is this what I was created for? To huddle under the blankets and stay warm?",
+        "text": "Have I been made for this, to lie under the blankets and keep myself warm?",
         "author": "Marcus Aurelius"
       },
       {
@@ -7094,6 +7122,14 @@ const quotes = [
         "author": "Marcus Aurelius"
       },
       {
+        "text": "The best answer to anger is silence.",
+        "author": "Marcus Aurelius"
+      },
+      {
+        "text": "The best answer to anger is silence.",
+        "author": "Marcus Aurelius"
+      },
+      {
         "text": "But death and life, success and failure, pain and pleasure, wealth and poverty, all these happen to good and bad alike, and they are neither noble or shameful—and hence neither good nor bad.",
         "author": "Marcus Aurelius"
       },
@@ -7125,3 +7161,4 @@ function readQuote() {
 
 // Initial quote on page load
 randomQuote();
+
