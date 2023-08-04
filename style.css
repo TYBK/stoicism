@@ -163,4 +163,5 @@ head,
 .footer img {
   width: 60px; /* Adjust the width as desired */
   height: auto; /* Maintain aspect ratio */
+  opacity: .33;
 }
