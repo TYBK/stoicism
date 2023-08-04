@@ -143,4 +143,24 @@ head,
   font-family: monospace;
 }
 
+.footer {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
+  height: 50px;
+  background-color: transparent;
+  backdrop-filter: blur(2px); /* Adjust the blur intensity as desired */
+  background-size: cover;
+  background-repeat: no-repeat;
+  display: flex;
+  justify-content: space-between; /* Move the image to the far right side */
+  align-items: center; /* Align items vertically center */
+  z-index: 100; /* make sure it stays on top */
+  padding: 10px; /* Add padding to the left and right */
+}
 
+/* Add CSS styles for the image (assuming you are using an image tag) */
+.footer img {
+  width: 60px; /* Adjust the width as desired */
+  height: auto; /* Maintain aspect ratio */
+}
