@@ -1378,10 +1378,6 @@ const quotes = [
         "author": "Seneca"
       },
       {
-        "text": "As long as you live, keep learning how to live.",
-        "author": "Seneca"
-      },
-      {
         "text": "A sword never kills anybody; it is a tool in the killer's hand.",
         "author": "Seneca"
       },
@@ -1427,10 +1423,6 @@ const quotes = [
       },
       {
         "text": "Errare humanum est, sed perseverare diabolicum: 'to err is human, but to persist (in the mistake) is diabolical.",
-        "author": "Seneca"
-      },
-      {
-        "text": "Life is long, if you know how to use it.",
         "author": "Seneca"
       },
       {
@@ -2106,7 +2098,7 @@ const quotes = [
         "author": "Seneca"
       },
       {
-        "text": "Life, if you know how to use it, is long; but…many, following no fixed aim, shifting and… dissatisfied, are plunged by their fickleness into plans that are ever new; some have no fixed principle by which to direct their course.",
+        "text": "Life, if you know how to use it, is long; but… many, following no fixed aim, shifting and… dissatisfied, are plunged by their fickleness into plans that are ever new; some have no fixed principle by which to direct their course.",
         "author": "Seneca"
       },
       {
@@ -2506,7 +2498,7 @@ const quotes = [
         "author": "Seneca"
       },
       {
-        "text": "Life is long if you know how to use it.",
+        "text": "Life is long, if you know how to use it.",
         "author": "Seneca"
       },
       {
@@ -4087,10 +4079,6 @@ const quotes = [
       },
       {
         "text": "Each day... acquire something which will help you to face poverty, or death, and other ills as well. After running over a lot of different thoughts, pick out one to be digested thoroughly that day.",
-        "author": "Seneca"
-      },
-      {
-        "text": "No man was ever wise by chance",
         "author": "Seneca"
       },
       {
