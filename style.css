@@ -6,7 +6,7 @@
 
 body {
   display: flex;
-  background: linear-gradient(#17151c, #191226, #0e0417);
+  background: #24272C;
   background-color: #17151c;
   animation-timing-function: calc(0.5s * 0.5);
   animation: gradient 0.5s infinite alternate;
