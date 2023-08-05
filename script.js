@@ -6,7 +6,7 @@ const synth = speechSynthesis;
 // List of quotes
 const quotes = [
       {
-        "text": "If anyone tells you that a certain person speaks ill of you, do not make excuses about what is said of you but answer, \"He was ignorant of my other faults, else he would not have mentioned these alone.\"",
+        "text": "If anyone tells you that a certain person speaks ill of you, do not make excuses about what is said of you but answer, \"He was ignorant of my other faults, else he would not have mentioned these alone.",
         "author": "Epictetus"
       },
       {
@@ -230,7 +230,7 @@ const quotes = [
         "author": "Epictetus"
       },
       {
-        "text": "If someone speaks badly of you, do not defend yourself against the accusations, but reply; \"you obviously don't know about my other vices, otherwise you would have mentioned these as well.\"",
+        "text": "If someone speaks badly of you, do not defend yourself against the accusations, but reply; \"you obviously don't know about my other vices, otherwise you would have mentioned these as well.",
         "author": "Epictetus"
       },
       {
@@ -354,7 +354,7 @@ const quotes = [
         "author": "Epictetus"
       },
       {
-        "text": "No man is free until he is a master of himself!!",
+        "text": "No man is free until he is a master of himself",
         "author": "Epictetus"
       },
       {
@@ -466,7 +466,7 @@ const quotes = [
         "author": "Epictetus"
       },
       {
-        "text": "Asked how a man should best grieve his enemy, Epictetus replied, \"By setting himself to live the noblest life himself.\"",
+        "text": "Asked how a man should best grieve his enemy, Epictetus replied, \"By setting himself to live the noblest life himself.",
         "author": "Epictetus"
       },
       {
@@ -678,7 +678,7 @@ const quotes = [
         "author": "Epictetus"
       },
       {
-        "text": "If you are told that such an one speaks ill of you, make no defense against what was said, but answer, \"He surely knows not my other faults, else he would not have mentioned these only!\"",
+        "text": "If you are told that such an one speaks ill of you, make no defense against what was said, but answer, \"He surely knows not my other faults, else he would not have mentioned these only!",
         "author": "Epictetus"
       },
       {
@@ -870,7 +870,7 @@ const quotes = [
         "author": "Epictetus"
       },
       {
-        "text": "If what philosophers say of the kinship of God and Man be true, what remains for men to do but as Socrates did:—never, when asked one's country, to answer, \"I am an Athenian or a Corinthian,\" but \"I am a citizen of the world.\"",
+        "text": "If what philosophers say of the kinship of God and Man be true, what remains for men to do but as Socrates did:—never, when asked one's country, to answer, \"I am an Athenian or a Corinthian,\" but \"I am a citizen of the world.",
         "author": "Epictetus"
       },
       {
@@ -930,7 +930,7 @@ const quotes = [
         "author": "Epictetus"
       },
       {
-        "text": "\"Who is a friend?\" his answer was, \"A second self (alter ego).\"",
+        "text": "\"Who is a friend?\" his answer was, \"A second self (alter ego).",
         "author": "Epictetus"
       },
       {
@@ -942,7 +942,7 @@ const quotes = [
         "author": "Epictetus"
       },
       {
-        "text": "Asked, Who is the rich man? Epictetus replied, \"He who is content.\"",
+        "text": "Asked, Who is the rich man? Epictetus replied, \"He who is content.",
         "author": "Epictetus"
       },
       {
@@ -1202,7 +1202,7 @@ const quotes = [
         "author": "Epictetus"
       },
       {
-        "text": "Be careful to leave your sons and daughters well instructed rather than rich, for the hopes of the instructed are better than the wealth of the ignorant.\"",
+        "text": "Be careful to leave your sons and daughters well instructed rather than rich, for the hopes of the instructed are better than the wealth of the ignorant.",
         "author": "Epictetus"
       },
       {
@@ -1266,7 +1266,7 @@ const quotes = [
         "author": "Seneca"
       },
       {
-        "text": "\"Non est ad astra mollis e terris via\" - \"There is no easy way from the earth to the stars.\"",
+        "text": "\"Non est ad astra mollis e terris via\" - \"There is no easy way from the earth to the stars.",
         "author": "Seneca"
       },
       {
@@ -2250,7 +2250,7 @@ const quotes = [
         "author": "Seneca"
       },
       {
-        "text": "When Zeno received news of a shipwreck and heard that all his luggage had been sunk he said, \"Fortune bids me to be a less encumbered philosopher.\"",
+        "text": "When Zeno received news of a shipwreck and heard that all his luggage had been sunk he said, \"Fortune bids me to be a less encumbered philosopher.",
         "author": "Seneca"
       },
       {
@@ -2830,7 +2830,7 @@ const quotes = [
         "author": "Seneca"
       },
       {
-        "text": "Socrates made the same remark to one who complained; he said: \"Why do you wonder that globe-trotting does not help you, seeing that you always take yourself with you? The reason which set you wandering is ever at your heels.\"",
+        "text": "Socrates made the same remark to one who complained; he said: \"Why do you wonder that globe-trotting does not help you, seeing that you always take yourself with you? The reason which set you wandering is ever at your heels.",
         "author": "Seneca"
       },
       {
@@ -2910,7 +2910,7 @@ const quotes = [
         "author": "Seneca"
       },
       {
-        "text": "We are all bound by this oath: \"To bear the ills of mortal life, and to submit with a good grace to what we cannot avoid.\"",
+        "text": "We are all bound by this oath: \"To bear the ills of mortal life, and to submit with a good grace to what we cannot avoid.",
         "author": "Seneca"
       },
       {
@@ -3082,7 +3082,7 @@ const quotes = [
         "author": "Seneca"
       },
       {
-        "text": "Nero: \"Am I forbidden to do what all may do?\" Seneca: \"From high rank high example is expected.\"",
+        "text": "Nero: \"Am I forbidden to do what all may do?\" Seneca: \"From high rank high example is expected.",
         "author": "Seneca"
       },
       {
@@ -3102,7 +3102,7 @@ const quotes = [
         "author": "Seneca"
       },
       {
-        "text": "Set aside a certain number of days, during which you shall be content with the scantiest and cheapest fare, with coarse and rough dress, saying to yourself the while: \"Is this the condition that I feared?\"",
+        "text": "Set aside a certain number of days, during which you shall be content with the scantiest and cheapest fare, with coarse and rough dress, saying to yourself the while: \"Is this the condition that I feared?",
         "author": "Seneca"
       },
       {
@@ -3474,7 +3474,7 @@ const quotes = [
         "author": "Seneca"
       },
       {
-        "text": "Fortune attacks us as often as we attack Fortune.  It.",
+        "text": "Fortune attacks us as often as we attack Fortune.",
         "author": "Seneca"
       },
       {
@@ -4166,7 +4166,7 @@ const quotes = [
         "author": "Seneca"
       },
       {
-        "text": "Democritus says: \"One man means as much to me as a multitude, and a multitude only as much as one man.\"",
+        "text": "Democritus says: \"One man means as much to me as a multitude, and a multitude only as much as one man.",
         "author": "Seneca"
       },
       {
@@ -4414,7 +4414,7 @@ const quotes = [
         "author": "Marcus Aurelius"
       },
       {
-        "text": "Here is a rule to remember in future, when anything tempts you to feel bitter: not \"This is misfortune,\" but \"To bear this worthily is good fortune.\"",
+        "text": "Here is a rule to remember in future, when anything tempts you to feel bitter: not \"This is misfortune,\" but \"To bear this worthily is good fortune.",
         "author": "Marcus Aurelius"
       },
       {
@@ -6042,7 +6042,7 @@ const quotes = [
         "author": "Marcus Aurelius"
       },
       {
-        "text": "Don’t be ashamed to need help. Like a soldier storming a wall, you have a mission to accomplish. And if you’ve been wounded and you need a comrade to pull you up? So what?",
+        "text": "Don’t be ashamed to need help. Like a soldier storming a wall, you have a mission to accomplish. And if you’ve been wounded and you need a comrade to pull you up. So what?",
         "author": "Marcus Aurelius"
       },
       {
@@ -6310,10 +6310,6 @@ const quotes = [
         "author": "Marcus Aurelius"
       },
       {
-        "text": "Do not act as if thou wert going to live ten thousand years. Death hangs over thee. While thou livest, while it is in thy power, be good.",
-        "author": "Marcus Aurelius"
-      },
-      {
         "text": "The thing itself was no misfortune at all; to endure it and prevail is great good fortune.",
         "author": "Marcus Aurelius"
       },
@@ -6494,7 +6490,7 @@ const quotes = [
         "author": "Marcus Aurelius"
       },
       {
-        "text": "Whatever anyone does or says, I must be good; just as if the emerald were always saying this: \"Whatever anyone does or says, I must still be emerald, and keep my color.\"",
+        "text": "Whatever anyone does or says, I must be good; just as if the emerald were always saying this: \"Whatever anyone does or says, I must still be emerald, and keep my color.",
         "author": "Marcus Aurelius"
       },
       {
@@ -6742,7 +6738,7 @@ const quotes = [
         "author": "Marcus Aurelius"
       },
       {
-        "text": "No matter what anyone says or does, my task is to be good. like gold or emerald or purple repeating to itself, \"no matter what anyone says or does, my task is to be emerald, my color undiminished.\"",
+        "text": "No matter what anyone says or does, my task is to be good. like gold or emerald or purple repeating to itself, \"no matter what anyone says or does, my task is to be emerald, my color undiminished.",
         "author": "Marcus Aurelius"
       },
       {
@@ -7153,3 +7149,10 @@ toggleSwitch.addEventListener('change', (e) => {
     localStorage.setItem('theme', 'light');
   }
 });
+
+var share_btn = document.querySelector(".share_btn");
+var toggle_button = document.querySelector(".toggle_button");
+
+share_btn.addEventListener("click", function(){
+  toggle_button.classList.toggle("active");
+})
