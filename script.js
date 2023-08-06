@@ -7130,29 +7130,3 @@ function readQuote() {
 // Initial quote on page load
 randomQuote();
 
-const toggleSwitch = document.getElementById('toggle');
-const currentTheme = localStorage.getItem('theme');
-
-if (currentTheme) {
-  document.documentElement.setAttribute('data-theme', currentTheme);
-  if (currentTheme === 'dark') {
-    toggleSwitch.checked = true;
-  }
-}
-
-toggleSwitch.addEventListener('change', (e) => {
-  if (e.target.checked) {
-    document.documentElement.setAttribute('data-theme', 'dark');
-    localStorage.setItem('theme', 'dark');
-  } else {
-    document.documentElement.setAttribute('data-theme', 'light');
-    localStorage.setItem('theme', 'light');
-  }
-});
-
-var share_btn = document.querySelector(".share_btn");
-var toggle_button = document.querySelector(".toggle_button");
-
-share_btn.addEventListener("click", function(){
-  toggle_button.classList.toggle("active");
-})
