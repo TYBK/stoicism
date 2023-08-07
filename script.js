@@ -3546,7 +3546,7 @@ const quotes = [
         "author": "Seneca"
       },
       {
-        "text": "It is not because things are difficult, that we do not dare, it is because we do not dare that Things are difficult.",
+        "text": "It is not because things are difficult, that we do not dare, it is because we do not dare that things are difficult.",
         "author": "Seneca"
       },
       {
@@ -4922,7 +4922,7 @@ const quotes = [
         "author": "Marcus Aurelius"
       },
       {
-        "text": "‎Begin the morning by saying to thyself, I shall meet with the busy-body, the ungrateful, arrogant, deceitful, envious, unsocial.",
+        "text": "Begin the morning by saying to thyself, I shall meet with the busy-body, the ungrateful, arrogant, deceitful, envious, unsocial.",
         "author": "Marcus Aurelius"
       },
       {
@@ -5330,7 +5330,7 @@ const quotes = [
         "author": "Marcus Aurelius"
       },
       {
-        "text": "IN THE morning when thou risest unwillingly, let this thought be present- I am rising to the work of a human being. Why then am I dissatisfied if I am going to do the things for which I exist and for which I was brought into the world?",
+        "text": "In the morning when thou risest unwillingly, let this thought be present- I am rising to the work of a human being. Why then am I dissatisfied if I am going to do the things for which I exist and for which I was brought into the world?",
         "author": "Marcus Aurelius"
       },
       {
@@ -6346,7 +6346,7 @@ const quotes = [
         "author": "Marcus Aurelius"
       },
       {
-        "text": "BEGIN the morning by saying to thyself, I shall meet with the busy-body, the ungrateful, arrogant, deceitful, envious, unsocial.",
+        "text": "Begin the morning by saying to thyself, I shall meet with the busy-body, the ungrateful, arrogant, deceitful, envious, unsocial.",
         "author": "Marcus Aurelius"
       },
       {
@@ -6554,7 +6554,7 @@ const quotes = [
         "author": "Marcus Aurelius"
       },
       {
-        "text": "\"What progress, you ask, have I made? I have begun to be a friend to myself.\" That was indeed a great benefit; such a person can never be alone. You may be sure that such a man is a friend to all mankind.",
+        "text": "What progress, you ask, have I made? I have begun to be a friend to myself.\" That was indeed a great benefit; such a person can never be alone. You may be sure that such a man is a friend to all mankind.",
         "author": "Marcus Aurelius"
       },
       {
