@@ -794,7 +794,7 @@ const quotes = [
         "author": "Epictetus"
       },
       {
-        "text": "We should realize that an opinion is not easily formed unless a person says and hears the same things every day and practises them in real life.",
+        "text": "We should realize that an opinion is not easily formed unless a person says and hears the same things every day and practices them in real life.",
         "author": "Epictetus"
       },
       {
@@ -3546,7 +3546,7 @@ const quotes = [
         "author": "Seneca"
       },
       {
-        "text": "It is not because things are difficult, that we do not dare, it is because we do not dare that things are difficult.",
+        "text": "It is not because things are difficult, that we do not dare, it is because we do not dare that hings are difficult.",
         "author": "Seneca"
       },
       {
@@ -4106,7 +4106,7 @@ const quotes = [
         "author": "Seneca"
       },
       {
-        "text": "Reflect how pleasant it is to demand nothing, how noble it is to be contented and not to be dependent upon Fortune.",
+        "text": "Reflect how pleasant it is to demand nothing, how noble it is to be contented and not to be dependent upon fortune.",
         "author": "Seneca"
       },
       {
@@ -6982,7 +6982,7 @@ const quotes = [
         "author": "Marcus Aurelius"
       },
       {
-        "text": "Do not act as if you had ten thousand years to live ... while you have life in you, while you still can, make yourself good.",
+        "text": "Do not act as if you had ten thousand years to live... while you have life in you, while you still can, make yourself good.",
         "author": "Marcus Aurelius"
       },
       {
@@ -7129,4 +7129,3 @@ function readQuote() {
 
 // Initial quote on page load
 randomQuote();
-
