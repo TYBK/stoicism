@@ -7360,6 +7360,7 @@ randomQuote();
 
 let lastTouchEnd = 0;
 document.addEventListener('touchend', (event) => {
+  if (event.touches.length > 1) return; // Exit if more than one touch point
   const now = new Date().getTime();
   if (now - lastTouchEnd <= 300) {
     event.preventDefault();
