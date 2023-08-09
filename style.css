@@ -96,6 +96,7 @@ head,
   flex-direction: column-reverse;
   align-items: center;
   height: 150px;
+  pointer-events: none;
 }
 
 
