@@ -7329,27 +7329,27 @@ const quotes = [
         "text": "The first Stoic school laid the foundation for Stoicism, influencing ethics, virtue, and rational living throughout history.",
         "author": "The Stoic School Interesting Facts"
         }
-    ]
-  // Add more quotes here...
-;
-
-// Fetch and display a random quote
-function randomQuote() {
-  const randomIndex = Math.floor(Math.random() * quotes.length);
-  const quote = quotes[randomIndex].text;
-  const author = quotes[randomIndex].author || 'Unknown';
-  quoteText.innerText = quote;
-  authorName.innerText = author;
-}
-
-// Event listener to change to the next quote on click anywhere on the page
-document.addEventListener('click', randomQuote);
-
-// Function to read the quote using speech synthesis
-function readQuote() {
-  let utterance = new SpeechSynthesisUtterance(`${quoteText.innerText} by ${authorName.innerText}`);
-  synth.speak(utterance);
-}
-
-// Initial quote on page load
-randomQuote();
+      ]
+      // Add more quotes here...
+    ;
+    
+    // Fetch and display a random quote
+    function randomQuote() {
+      const randomIndex = Math.floor(Math.random() * quotes.length);
+      const quote = quotes[randomIndex].text;
+      const author = quotes[randomIndex].author || 'Unknown';
+      quoteText.innerText = quote;
+      authorName.innerText = author;
+    }
+    
+    // Event listener to change to the next quote on click anywhere on the page
+    document.addEventListener('click', randomQuote);
+    
+    // Function to read the quote using speech synthesis
+    function readQuote() {
+      let utterance = new SpeechSynthesisUtterance(`${quoteText.innerText} by ${authorName.innerText}`);
+      synth.speak(utterance);
+    }
+    
+    // Initial quote on page load
+    randomQuote();
