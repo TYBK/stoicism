@@ -9,6 +9,7 @@ body {
   background: #24272C;
   background-color: #24272C;
   background-size: 800% 800%;
+  touch-action: manipulation;
 }
 
 .nav-bar {
