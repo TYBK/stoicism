@@ -6662,10 +6662,6 @@ const quotes = [
         "author": "Marcus Aurelius"
       },
       {
-        "text": "That I have such a wife, so obedient.",
-        "author": "Marcus Aurelius"
-      },
-      {
         "text": "Continually, and, if possible, in the case of every mental image, consider its nature, realize its emotional content, and judge it rationally.",
         "author": "Marcus Aurelius"
       },
