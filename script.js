@@ -7098,9 +7098,241 @@ const quotes = [
         "author": "Marcus Aurelius"
       },
       {
+        "text": "There is nothing in the world so much admired as a person who knows how to bear unhappiness with courage.",
+        "author": "Zeno of Citium"
+      },
+      {
+        "text": "A person teaching and a person learning should have the same end in view: the improvement of the latter.",
+        "author": "Zeno of Citium"
+      },
+      {
+        "text": "To have may be taken from us, to have had, never. A person is thankless in the highest degree if, after losing something, they feel no obligation for having received it.",
+        "author": "Zeno of Citium"
+      },
+      {
+        "text": "The wise person is their own best friend, while the fool is their own worst enemy.",
+        "author": "Zeno of Citium"
+      },
+      {
+        "text": "Virtue is the sole good; vice is the sole evil.",
+        "author": "Zeno of Citium"
+      },
+      {
+        "text": "It is not the strongest of the species that survive, nor the most intelligent, but the one most responsive to change.",
+        "author": "Zeno of Citium"
+      },
+      {
+        "text": "A good character, when established, is not easily overthrown.",
+        "author": "Zeno of Citium"
+      },
+      {
+        "text": "Happiness is not found in external things, but in controlling our reactions to them.",
+        "author": "Zeno of Citium"
+      },
+      {
+        "text": "The key to a fulfilled life is to live in agreement with nature and reason.",
+        "author": "Zeno of Citium"
+      },
+      {
+        "text": "The wise person is content with what they have, while the fool is always seeking more.",
+        "author": "Zeno of Citium"
+      },
+      {
+        "text": "We should live in accordance with nature, recognizing our place in the grand order of the universe.",
+        "author": "Zeno of Citium"
+      },
+      {
+        "text": "A person's worth is measured by their character and actions, not by their wealth or status.",
+        "author": "Zeno of Citium"
+      },
+      {
+        "text": "External events are beyond our control; our thoughts and attitudes are what truly matter.",
+        "author": "Zeno of Citium"
+      },
+      {
+        "text": "The path to wisdom begins with self-awareness and the recognition of one's own shortcomings.",
+        "author": "Zeno of Citium"
+      },
+      {
+        "text": "True freedom comes from mastering our desires and emotions, not from seeking external pleasures.",
+        "author": "Zeno of Citium"
+      },
+      {
+        "text": "Adversity is an opportunity for growth and self-improvement.",
+        "author": "Zeno of Citium"
+      },
+      {
+        "text": "Happiness is not the absence of problems, but the ability to deal with them wisely and calmly.",
+        "author": "Zeno of Citium"
+      },
+      {
+        "text": "Live each day as if it were your last, but plan as if you will live forever.",
+        "author": "Zeno of Citium"
+      },
+      {
+        "text": "The Stoic path is not one of withdrawal from the world, but of active engagement and ethical living.",
+        "author": "Zeno of Citium"
+      },
+      {
+        "text": "Our first and greatest duty is not to despise ourselves.",
+        "author": "Hierocles"
+      },
+      {
+        "text": "The more we resemble God in our judgments and actions, the nearer we are to happiness.",
+        "author": "Hierocles"
+      },
+      {
+        "text": "Everyone is a son or daughter of God, participating in his divine nature.",
+        "author": "Hierocles"
+      },
+      {
+        "text": "Of all our possessions, wisdom alone is immortal.",
+        "author": "Hierocles"
+      },
+      {
+        "text": "The body is the instrument of the soul, the soul is the instrument of the daimon, and the daimon is a divine instrument.",
+        "author": "Hierocles"
+      },
+      {
+        "text": "The world is a school for the cultivation of souls.",
+        "author": "Hierocles"
+      },
+      {
+        "text": "Concord is a beautiful bond, and friendship is concord.",
+        "author": "Hierocles"
+      },
+      {
+        "text": "Nature has given to men one tongue, but two ears, that we may hear from others twice as much as we speak.",
+        "author": "Hierocles"
+      },
+      {
+        "text": "We should strive to do what is right, not only when others are watching, but also when we are alone.",
+        "author": "Hierocles"
+      },
+      {
+        "text": "Justice is the virtue that provides for everyone what is appropriate to him.",
+        "author": "Hierocles"
+      },
+      {
+        "text": "Just as the sun and moon are the luminaries of the visible world, so love is the luminary of the intelligible world.",
+        "author": "Hierocles"
+      },
+      {
+        "text": "The daimon within us is the ambassador of the divine in the human.",
+        "author": "Hierocles"
+      },
+      {
+        "text": "Kindness is the bond that keeps communities together and prevents them from falling apart.",
+        "author": "Hierocles"
+      },
+      {
+        "text": "One should not only extinguish the fire of anger in oneself, but also rekindle the flame of love in others.",
+        "author": "Hierocles"
+      },
+      {
+        "text": "The path of virtue is narrow and steep, but it leads to the summit of true greatness.",
+        "author": "Hierocles"
+      },
+      {
+        "text": "The wise person is content with what he has and does not grieve over what he lacks.",
+        "author": "Hierocles"
+      },
+      {
+        "text": "Just as the small pieces of a mosaic form a great image, so small acts of kindness form a virtuous life.",
+        "author": "Hierocles"
+      },
+      {
+        "text": "The universe is like a great city, of which God is the sovereign and all rational beings are citizens.",
+        "author": "Hierocles"
+      },
+      {
+        "text": "Reason is the divine spark within us that connects us to the divine Reason that governs the cosmos.",
+        "author": "Hierocles"
+      },
+      {
+        "text": "The wise person does not hold others in contempt, for he knows that all are striving toward the good.",
+        "author": "Hierocles"
+      },
+      {
         "text": " Lead me, O Zeus, and thou O Destiny, the way that I am bid by you to go: To follow I am ready. If I choose not, I make myself a wretch, and still must follow.",
         "author": "Cleanthes"
-      }
+      },
+      {
+        "text": "The first Stoic school was founded by Zeno of Citium in Athens, Greece, around 301 BCE.",
+        "author": "The Stoic School Interesting Facts"
+        },
+        {
+        "text": "The school was named Stoa Poikile, meaning 'Painted Porch' in Greek, after the colonnade where Zeno and his students gathered.",
+        "author": "The Stoic School Interesting Facts"
+        },
+        {
+        "text": "Stoa Poikile provided a public space for philosophical discussions, welcoming individuals from diverse backgrounds, including slaves and foreigners.",
+        "author": "The Stoic School Interesting Facts"
+        },
+        {
+        "text": "The first Stoic school aimed to create a universal philosophy applicable to all, offering practical wisdom for a virtuous life.",
+        "author": "The Stoic School Interesting Facts"
+        },
+        {
+        "text": "Zeno of Citium, founder of the school, was known for his paradoxes challenging notions of motion and space.",
+        "author": "The Stoic School Interesting Facts"
+        },
+        {
+        "text": "The first Stoic school emphasized virtue as the ultimate good and the key to eudaimonia, or flourishing.",
+        "author": "The Stoic School Interesting Facts"
+        },
+        {
+        "text": "The school encompassed ethics, logic, and physics as its three main branches of philosophy.",
+        "author": "The Stoic School Interesting Facts"
+        },
+        {
+        "text": "Cosmopolitanism was a central theme, advocating for shared humanity and global community.",
+        "author": "The Stoic School Interesting Facts"
+        },
+        {
+        "text": "The first Stoic school differentiated between 'preferred' and 'dispreferred' indifferents, guiding emotional management.",
+        "author": "The Stoic School Interesting Facts"
+        },
+        {
+        "text": "The school believed in a universal order guided by reason, often referred to as the 'Logos.'",
+        "author": "The Stoic School Interesting Facts"
+        },
+        {
+        "text": "Ataraxia, a state of tranquility achieved through alignment with the natural order, was a sought-after goal.",
+        "author": "The Stoic School Interesting Facts"
+        },
+        {
+        "text": "Seneca the Younger, influenced by the school, played a significant role in spreading Stoic ideas.",
+        "author": "The Stoic School Interesting Facts"
+        },
+        {
+        "text": "Epictetus compiled his teachings into the 'Enchiridion,' a manual on ethics, influenced by the school.",
+        "author": "The Stoic School Interesting Facts"
+        },
+        {
+        "text": "The Roman Emperor Marcus Aurelius wrote 'Meditations' reflecting Stoic philosophy, influenced by the school.",
+        "author": "The Stoic School Interesting Facts"
+        },
+        {
+        "text": "Zeno of Citium studied under Crates of Thebes, from the Peripatetic school, influencing the first Stoic school.",
+        "author": "The Stoic School Interesting Facts"
+        },
+        {
+        "text": "The school participated in the Panathenaic procession, a notable Athenian festival.",
+        "author": "The Stoic School Interesting Facts"
+        },
+        {
+        "text": "Chrysippus, associated with the school, authored works on logic, ethics, and physics.",
+        "author": "The Stoic School Interesting Facts"
+        },
+        {
+        "text": "While the first Stoic school declined over time, it experienced a revival in the Roman era, leaving a lasting legacy.",
+        "author": "The Stoic School Interesting Facts"
+        },
+        {
+        "text": "The first Stoic school laid the foundation for Stoicism, influencing ethics, virtue, and rational living throughout history.",
+        "author": "The Stoic School Interesting Facts"
+        }
     ]
   // Add more quotes here...
 ;
