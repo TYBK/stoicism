@@ -74,6 +74,7 @@ body {
   transform: translate(-50%, 100%);
   justify-content: center;
   align-items: center;
+  touch-action: manipulation;
 }
 
 head,
@@ -98,6 +99,7 @@ head,
   align-items: center;
   height: 150px;
   pointer-events: none;
+  touch-action: manipulation;
 }
 
 
@@ -106,6 +108,7 @@ head,
   text-align: center;
   word-break: break-word;
   max-width: 100%;
+  touch-action: manipulation;
 }
 
 .quote-area i {
@@ -130,6 +133,7 @@ head,
   justify-content: flex-end;
   max-width: 100%;
   max-height: 100%;
+  touch-action: manipulation;
 }
 
 .author span:first-child {
