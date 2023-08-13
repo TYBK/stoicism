@@ -674,10 +674,6 @@ const quotes = [
         "author": "Epictetus"
       },
       {
-        "text": "CIRCUMSTANCES DON’T MAKE THE MAN, THEY ONLY REVEAL HIM TO HIMSELF.",
-        "author": "Epictetus"
-      },
-      {
         "text": "If you are told that such an one speaks ill of you, make no defense against what was said, but answer, \"He surely knows not my other faults, else he would not have mentioned these only!",
         "author": "Epictetus"
       },
@@ -2242,7 +2238,7 @@ const quotes = [
         "author": "Seneca"
       },
       {
-        "text": "For Fate/ The willing leads, the unwilling drags along.",
+        "text": "For Fate, the willing leads, the unwilling drags along.",
         "author": "Seneca"
       },
       {
@@ -5522,7 +5518,7 @@ const quotes = [
         "author": "Marcus Aurelius"
       },
       {
-        "text": "B.C.)—Stoicism stressed the search for inner peace and ethical certainty despite the apparent chaos of the external world by emulating in one’s personal conduct the underlying orderliness and lawfulness of nature.",
+        "text": "Stoicism stressed the search for inner peace and ethical certainty despite the apparent chaos of the external world by emulating in one’s personal conduct the underlying orderliness and lawfulness of nature.",
         "author": "Marcus Aurelius"
       },
       {
