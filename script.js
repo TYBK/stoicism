@@ -6238,7 +6238,7 @@ const quotes = [
         "author": "Marcus Aurelius"
       },
       {
-        "text": "When the longest- and shortest-lived of us dies their loss is precisely equal. For the sole thing of which any of us can be deprived is the present, since this is all we own, and nobody can lose what is not theirs.",
+        "text": "When the longest (and shortest) lived of us dies their loss is precisely equal. For the sole thing of which any of us can be deprived is the present, since this is all we own, and nobody can lose what is not theirs.",
         "author": "Marcus Aurelius"
       },
       {
@@ -7329,23 +7329,35 @@ const quotes = [
       // Add more quotes here...
     ;
     
-    // Fetch and display a random quote
-    function randomQuote() {
-      const randomIndex = Math.floor(Math.random() * quotes.length);
-      const quote = quotes[randomIndex].text;
-      const author = quotes[randomIndex].author || 'Unknown';
-      quoteText.innerText = quote;
-      authorName.innerText = author;
-    }
-    
-    // Event listener to change to the next quote on click anywhere on the page
-    document.addEventListener('click', randomQuote);
-    
-    // Function to read the quote using speech synthesis
-    function readQuote() {
-      let utterance = new SpeechSynthesisUtterance(`${quoteText.innerText} by ${authorName.innerText}`);
-      synth.speak(utterance);
-    }
-    
-    // Initial quote on page load
-    randomQuote();
+// Fetch and display a random quote
+function randomQuote() {
+  const randomIndex = Math.floor(Math.random() * quotes.length);
+  const quote = quotes[randomIndex].text;
+  const author = quotes[randomIndex].author || 'Unknown';
+  quoteText.innerText = quote;
+  authorName.innerText = author;
+}
+
+// Event listener to change to the next quote on click within the article, nav, and aside
+const articleElement = document.querySelector('article');
+const navElement = document.querySelector('nav');
+const asideElement = document.querySelector('aside');
+
+articleElement.addEventListener('click', randomQuote);
+navElement.addEventListener('click', randomQuote);
+asideElement.addEventListener('click', randomQuote);
+
+// Function to read the quote using speech synthesis
+function readQuote() {
+  let utterance = new SpeechSynthesisUtterance(`${quoteText.innerText} by ${authorName.innerText}`);
+  synth.speak(utterance);
+}
+
+// Initial quote on page load
+randomQuote();
+
+
+
+
+
+
