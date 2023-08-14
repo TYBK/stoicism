@@ -43,15 +43,15 @@ const quotes = [
         },
         {
         "text": "Before you embark on a journey of revenge, dig two graves.",
-        "author": "Confucius (a Chinese philosopher)"
+        "author": "Confucius"
         },
         {
         "text": "The best way to find yourself is to lose yourself in the service of others.",
-        "author": "Mahatma Gandhi (a leader of the Indian independence movement)"
+        "author": "Mahatma Gandhi"
         },
         {
         "text": "Not everything that is faced can be changed, but nothing can be changed until it is faced.",
-        "author": "James Baldwin (an American novelist, playwright, and activist)"
+        "author": "James Baldwin"
         },
         {
         "text": "When the power of love overcomes the love of power, the world will know peace.",
@@ -59,7 +59,7 @@ const quotes = [
         },
         {
         "text": "Spread love everywhere you go. Let no one ever come to you without leaving happier.",
-        "author": "Mother Teresa (a Catholic nun and missionary)"
+        "author": "Mother Teresa"
         },
         {
         "text": "You have heard that it was said, 'An eye for an eye and a tooth for a tooth.' But I say to you, Do not resist the one who is evil. But if anyone slaps you on the right cheek, turn to him the other also.",
@@ -71,7 +71,7 @@ const quotes = [
         },
         {
         "text": "To be yourself in a world that is constantly trying to make you something else is the greatest accomplishment.",
-        "author": "Ralph Waldo Emerson (an American essayist and poet)"
+        "author": "Ralph Waldo Emerson"
         },
         {
         "text": "A person is not a believer who fills his stomach while his neighbor goes hungry.",
@@ -115,7 +115,7 @@ const quotes = [
         },
         {
         "text": "An unexamined life is not worth living.",
-        "author": "Socrates (a Greek philosopher)"
+        "author": "Socrates"
         },
         {
         "text": "The fool who recognizes his foolishness is therefore wise at least to that extent, but the fool who thinks himself wise is a fool indeed.",
@@ -131,7 +131,7 @@ const quotes = [
         },
         {
         "text": "The truth is always something that is told, not something that is known. If there were no speaking or writing, there would be no truth about anything. There would only be what is.",
-        "author": "Susan Sontag (an American writer and philosopher)"
+        "author": "Susan Sontag"
         },
         {
         "text": "Hatred does not cease through hatred at any time. Hatred ceases through love. This is an unalterable law.",
@@ -139,11 +139,11 @@ const quotes = [
         },
         {
         "text": "The one who plants trees, knowing that he will never sit in their shade, has at least started to understand the meaning of life.",
-        "author": "Rabindranath Tagore (a Bengali poet and philosopher)"
+        "author": "Rabindranath Tagore"
         },
         {
         "text": "The only thing necessary for the triumph of evil is for good men to do nothing.",
-        "author": "Edmund Burke (an Irish statesman and philosopher)"
+        "author": "Edmund Burke"
         },
         {
         "text": "Our prime purpose in this life is to help others. And if you can't help them, at least don't hurt them.",
@@ -155,11 +155,11 @@ const quotes = [
         },
         {
         "text": "The world is a dangerous place to live; not because of the people who are evil, but because of the people who don't do anything about it.",
-        "author": "Albert Einstein (a theoretical physicist)"
+        "author": "Albert Einstein"
         },
         {
         "text": "The best revenge is not to be like your enemy.",
-        "author": "Marcus Aurelius (a Roman Emperor and philosopher)"
+        "author": "Marcus Aurelius"
         },
         {
         "text": "Do not be overcome by evil, but overcome evil with good.",
@@ -171,7 +171,7 @@ const quotes = [
         },
         {
         "text": "You cannot shake hands with a clenched fist.",
-        "author": "Indira Gandhi (an Indian politician)"
+        "author": "Indira Gandhi"
         },
         {
         "text": "You shall love your neighbor as yourself.",
@@ -183,7 +183,7 @@ const quotes = [
         },
         {
         "text": "The greatest glory in living lies not in never falling, but in rising every time we fall.",
-        "author": "Nelson Mandela (a South African anti-apartheid revolutionary)"
+        "author": "Nelson Mandela"
         },
         {
         "text": "Whatever words we utter should be chosen with care for people will hear them and be influenced by them for good or ill.",
@@ -195,7 +195,7 @@ const quotes = [
         },
         {
         "text": "When you make a mistake, don't look back at it long. Take the reason of the thing into your mind and then look forward. Mistakes are lessons of wisdom. The past cannot be changed. The future is yet in your power.",
-        "author": "Hugh White (an Australian military leader)"
+        "author": "Hugh White"
         },
         {
         "text": "Let us not seek to satisfy our thirst for freedom by drinking from the cup of bitterness and hatred.",
@@ -207,7 +207,7 @@ const quotes = [
         },
         {
         "text": "The best way to predict the future is to create it.",
-        "author": "Abraham Lincoln (a former U.S. President)"
+        "author": "Abraham Lincoln"
         },
         {
         "text": "In the end, we will remember not the words of our enemies, but the silence of our friends.",
