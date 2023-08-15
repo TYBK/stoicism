@@ -44,7 +44,6 @@
             </div>
             </div>
           <!-- Add the following HTML where you want to display the icon -->
-        <div id="clickIcon"></div>
     </article>
     <nav></nav>
     <aside></aside>
@@ -52,27 +51,6 @@
   <footer>
     <img src="assets/teka-humantools.png" class="footer-logo">
   </footer>
-  <script>
-    // Convert the JSX code to standard JavaScript
-    function ClickIcon({ size, color }) {
-      const svgDesktop = `<svg class="desktop" width="${size}" height="${size}" viewBox="0 0 1000 1000" fill="none">
-        <!-- The rest of the SVG code here -->
-      </svg>`;
-  
-      const svgMobile = `<svg class="mobile" width="${size - 15}" height="${size - 15}" viewBox="0 0 1000 1000" fill="none">
-        <!-- The rest of the SVG code here -->
-      </svg>`;
-  
-      return svgDesktop + svgMobile;
-    }
-  
-    // Add the icon to the HTML element with ID "clickIcon"
-    const iconSize = 100; // Change the size as needed
-    const iconColor = "#FFFFFF"; // Change the color as needed
-  
-    const clickIconElement = document.getElementById("clickIcon");
-    clickIconElement.innerHTML = ClickIcon({ size: iconSize, color: iconColor });
-  </script>
   
     <script src="prophets.js"></script>
     <script type="module">
