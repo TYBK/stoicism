@@ -734,7 +734,7 @@ const quotes = [
         "author": "Epictetus"
       },
       {
-        "text": "Don't concern yourself with other people's business. It's his problem if he receives you badly. And you cannot suffer for another person's fault. So don't worry about the behavior of other.",
+        "text": "Don't concern yourself with other people's business. It's his problem if he receives you badly. And you cannot suffer for another person's fault. So don't worry about the behavior of others.",
         "author": "Epictetus"
       },
       {
@@ -2038,7 +2038,7 @@ const quotes = [
         "author": "Seneca"
       },
       {
-        "text": "It’s not that we have a short time to live, but that we waste a lot of it.” -Lucius Annaeus Seneca.",
+        "text": "It is not that we have a short time to live, but that we waste a lot of it.",
         "author": "Seneca"
       },
       {
@@ -5443,7 +5443,7 @@ const quotes = [
       },
       {
         "text": "Kingship: to earn a bad reputation by good deeds.",
-        "author": "Marcus Aurelius"
+        "author": "Albert Camus"
       },
       {
         "text": "You’ve given aid and they’ve received it. And yet, like an idiot, you keep holding out for more: to be credited with a Good Deed, to be repaid in kind. Why?",
@@ -6814,7 +6814,7 @@ const quotes = [
         "author": "Marcus Aurelius"
       },
       {
-        "text": "This then remains: Remember to retire into this little territory of thy own, and, above all, do not distract or strain thyself, but be free, at look and things as a man, as a human being, as a citizen, as a mortal.",
+        "text": "This then remains: Remember to retire into this little territory of thy own, and above all, do not distract or strain thyself, but be free, and look at things as a man, as a human being, as a citizen, as a mortal. But among the things readiest to thy hand to which thou shalt turn, let there be these, which are two.",
         "author": "Marcus Aurelius"
       },
       {
@@ -7356,8 +7356,50 @@ function readQuote() {
 // Initial quote on page load
 randomQuote();
 
+// Function to copy text to clipboard
+function copyToClipboard(text) {
+  const textarea = document.createElement('textarea');
+  textarea.value = text;
+  document.body.appendChild(textarea);
+  textarea.select();
+  document.execCommand('copy');
+  document.body.removeChild(textarea);
+}
 
+// Event listeners for copying quote and author
+document.getElementById('copyQuote').addEventListener('click', function() {
+  copyToClipboard(quoteText.innerText);
+});
 
+document.getElementById('copyAuthor').addEventListener('click', function() {
+  copyToClipboard(authorName.innerText);
+});
 
+// Event listeners for sharing on social media
+document.getElementById('twitterShare').addEventListener('click', function() {
+  const twitterURL = `https://twitter.com/intent/tweet?text=${encodeURIComponent(quoteText.innerText + ' - ' + authorName.innerText)}`;
+  window.open(twitterURL, '_blank');
+});
 
+document.getElementById('facebookShare').addEventListener('click', function() {
+  const facebookURL = `https://www.facebook.com/sharer/sharer.php?u=${encodeURIComponent(window.location.href)}`;
+  window.open(facebookURL, '_blank');
+});
 
+document.getElementById('linkedinShare').addEventListener('click', function() {
+  const linkedinURL = `https://www.linkedin.com/shareArticle?mini=true&url=${encodeURIComponent(window.location.href)}&title=${encodeURIComponent('Stoic Quote')}&summary=${encodeURIComponent(quoteText.innerText + ' - ' + authorName.innerText)}`;
+  window.open(linkedinURL, '_blank');
+});
+
+// Instagram Stories sharing is not straightforward due to limitations with the API.
+// Users can manually share the quote on their Instagram Stories using the link.
+document.getElementById('instagramStoryShare').addEventListener('click', function() {
+  // Replace with instructions for users to share on Instagram Stories.
+  alert('To share on Instagram Stories, save the quote image and upload it to your story.');
+});
+
+// Copy text to clipboard and show/hide dropdown for copying options
+document.getElementById('copyText').addEventListener('click', function() {
+  const dropdown = document.getElementById('copyDropdown');
+  dropdown.style.display = dropdown.style.display === 'block' ? 'none' : 'block';
+});
