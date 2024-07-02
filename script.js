@@ -4894,7 +4894,7 @@ const quotes = [
         "author": "Marcus Aurelius"
       },
       {
-        "text": "Live every day as if they last.",
+        "text": "Live every day as if it were your last.",
         "author": "Marcus Aurelius"
       },
       {
