@@ -5550,7 +5550,7 @@ const quotes = [
         "author": "Marcus Aurelius"
       },
       {
-        "text": "Our thoughts is what our life make it.",
+        "text": "A man's life is what his thoughts make of it.",
         "author": "Marcus Aurelius"
       },
       {
