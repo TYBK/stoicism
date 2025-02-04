@@ -7251,79 +7251,79 @@ const quotes = [
       },
       {
         "text": "The first Stoic school was founded by Zeno of Citium in Athens, Greece, around 301 BCE.",
-        "author": "The Stoic School Interesting Facts"
+        "author": "The Stoic School"
         },
         {
         "text": "The school was named Stoa Poikile, meaning 'Painted Porch' in Greek, after the colonnade where Zeno and his students gathered.",
-        "author": "The Stoic School Interesting Facts"
+        "author": "The Stoic School"
         },
         {
         "text": "Stoa Poikile provided a public space for philosophical discussions, welcoming individuals from diverse backgrounds, including slaves and foreigners.",
-        "author": "The Stoic School Interesting Facts"
+        "author": "The Stoic School"
         },
         {
         "text": "The first Stoic school aimed to create a universal philosophy applicable to all, offering practical wisdom for a virtuous life.",
-        "author": "The Stoic School Interesting Facts"
+        "author": "The Stoic School"
         },
         {
         "text": "Zeno of Citium, founder of the school, was known for his paradoxes challenging notions of motion and space.",
-        "author": "The Stoic School Interesting Facts"
+        "author": "The Stoic School"
         },
         {
         "text": "The first Stoic school emphasized virtue as the ultimate good and the key to eudaimonia, or flourishing.",
-        "author": "The Stoic School Interesting Facts"
+        "author": "The Stoic School"
         },
         {
         "text": "The school encompassed ethics, logic, and physics as its three main branches of philosophy.",
-        "author": "The Stoic School Interesting Facts"
+        "author": "The Stoic School"
         },
         {
         "text": "Cosmopolitanism was a central theme, advocating for shared humanity and global community.",
-        "author": "The Stoic School Interesting Facts"
+        "author": "The Stoic School"
         },
         {
         "text": "The first Stoic school differentiated between 'preferred' and 'dispreferred' indifferents, guiding emotional management.",
-        "author": "The Stoic School Interesting Facts"
+        "author": "The Stoic School"
         },
         {
         "text": "The school believed in a universal order guided by reason, often referred to as the 'Logos.'",
-        "author": "The Stoic School Interesting Facts"
+        "author": "The Stoic School"
         },
         {
         "text": "Ataraxia, a state of tranquility achieved through alignment with the natural order, was a sought-after goal.",
-        "author": "The Stoic School Interesting Facts"
+        "author": "The Stoic School"
         },
         {
         "text": "Seneca the Younger, influenced by the school, played a significant role in spreading Stoic ideas.",
-        "author": "The Stoic School Interesting Facts"
+        "author": "The Stoic School"
         },
         {
         "text": "Epictetus compiled his teachings into the 'Enchiridion,' a manual on ethics, influenced by the school.",
-        "author": "The Stoic School Interesting Facts"
+        "author": "The Stoic School"
         },
         {
         "text": "The Roman Emperor Marcus Aurelius wrote 'Meditations' reflecting Stoic philosophy, influenced by the school.",
-        "author": "The Stoic School Interesting Facts"
+        "author": "The Stoic School"
         },
         {
         "text": "Zeno of Citium studied under Crates of Thebes, from the Peripatetic school, influencing the first Stoic school.",
-        "author": "The Stoic School Interesting Facts"
+        "author": "The Stoic School"
         },
         {
         "text": "The school participated in the Panathenaic procession, a notable Athenian festival.",
-        "author": "The Stoic School Interesting Facts"
+        "author": "The Stoic School"
         },
         {
         "text": "Chrysippus, associated with the school, authored works on logic, ethics, and physics.",
-        "author": "The Stoic School Interesting Facts"
+        "author": "The Stoic School"
         },
         {
         "text": "While the first Stoic school declined over time, it experienced a revival in the Roman era, leaving a lasting legacy.",
-        "author": "The Stoic School Interesting Facts"
+        "author": "The Stoic School"
         },
         {
         "text": "The first Stoic school laid the foundation for Stoicism, influencing ethics, virtue, and rational living throughout history.",
-        "author": "The Stoic School Interesting Facts"
+        "author": "The Stoic School"
         }
       ]
       // Add more quotes here...
