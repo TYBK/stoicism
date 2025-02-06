@@ -726,7 +726,7 @@ const quotes = [
         "author": "Epictetus"
       },
       {
-        "text": "He wants what he cannot have, and does not want what he can't refuse — and isn't aware of it. He doesn't know the difference between his own possessions and others'. Because, if he did, he would never be thwarted of disappointed. Or nervous.",
+        "text": "He wants what he cannot have, and does not want what he can't refuse — and isn't aware of it. He doesn't know the difference between his own possessions and others'. Because, if he did, he would never be thwarted, disappointed, or nervous.",
         "author": "Epictetus"
       },
       {
